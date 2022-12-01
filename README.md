@@ -25,8 +25,15 @@ To build an environment run the following command:
 
 The training data contains the normalized counts for 32285 genes in 5000 different cells together
 with the experimental condition under which each cell was measured. The test data contains only
-the normalized counts and your task is to predict the experimental condition. You can download
-the data here:
+the normalized counts and your task is to predict the experimental condition. Data is included in this repository
+
+```../data/train.csv.gz```
+
+```../data/test.csv.gz```
+
+However in our analysis we have saved a new filtered version of our train data which filtered out some genes expressed based on a threshold. In our case we decided to filter out genes that were seen across less than 10% of the cells. Filtering took extremely long so in our analysis we recommend you take advantage of our new dataset:
+
+```../data/filtered_train.csv.gz```
 
 ## Methods
 
