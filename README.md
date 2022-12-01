@@ -2,8 +2,8 @@
 
 ## Authors:
 
-- Simon Lee (simon.lee@epfl.ch) 
 - Léa Goffinet (lea.goffinet@epfl.ch)
+- Simon Lee (simon.lee@epfl.ch) 
 
 ## Project Description
 
