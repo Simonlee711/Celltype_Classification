@@ -1,4 +1,4 @@
-# BIO 322 Project - Gene Prediction
+# BIO 322 Project - Cell Prediction
 
 ## Authors:
 
