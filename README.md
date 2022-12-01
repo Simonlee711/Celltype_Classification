@@ -47,5 +47,5 @@ However in our analysis we have saved a new filtered version of our train data w
 
 ## How to run 
 
-All the preprocessing, methods and analysis are contained in the ```cell_prediction_analysis.ipynb``` notebook.
+All the preprocessing, methods and analysis are contained in the ```../src/cell_prediction_analysis.ipynb``` notebook.
 
