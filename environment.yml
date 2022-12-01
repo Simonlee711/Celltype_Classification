@@ -1,8 +1,0 @@
-name: machine-learning-env
-channels:
-  - defaults
-prefix: /Users/simonlee/opt/anaconda3/envs/machine-learning-env
-dependencies:
-  - pip
-  - pip:
-    - -r requirements.txt
