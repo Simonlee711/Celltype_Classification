@@ -2,8 +2,8 @@
 
 ## Authors:
 
-- Simon Lee
-- Léa Goffinet
+- Simon Lee (simon.lee@epfl.ch) 
+- Léa Goffinet (lea.goffinet@epfl.ch)
 
 ## Project Description
 
@@ -13,9 +13,13 @@ conditions that we call KAT5, CBP and eGFP. In this challenge, the goal is to pr
 as possible – for each cell the experimental condition (KAT5, CBP or eGFP) under which it was
 measured, given only the gene expression levels.
 
-## Python Environment
+## Python Environment and installing dependencies
 
-```environment.yml ``` -  will create environment file so anyone can run
+```environment.yml ``` - file is included in the repository. Takes dependencies from ```requirements.txt```
+
+To build an environment run the following command:
+
+```conda env create -f environment.yml --name [environment_name] ```
 
 ## Data 
 
@@ -26,4 +30,15 @@ the data here:
 
 ## Methods
 
+#### XG Boost
+
+- Description:
+
+#### Neural Network:
+
+- Description:
+
 ## How to run 
+
+All the preprocessing, methods and analysis are contained in the ```cell_prediction_analysis.ipynb``` notebook.
+
