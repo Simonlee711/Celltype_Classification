@@ -21,6 +21,8 @@ To build an environment run the following command:
 
 ```conda env create -f environment.yml --name [environment_name] ```
 
+```conda activate [environment_name]```
+
 ## Data 
 
 The training data contains the normalized counts for 32285 genes in 5000 different cells together
