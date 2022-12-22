@@ -39,13 +39,11 @@ However in our analysis we have saved a new filtered version of our train data w
 
 ## Methods
 
+#### Multinomal Logistic Regression and Multiple Linear Regression
+
 #### XG Boost
 
-- Description:
-
-#### Neural Network:
-
-- Description:
+- Description: An ensemble learning method which has been consistently good at supervised learning tasks. We therefore took this tree based method which improves each previous model (boosting), and we obtain a model that is able to predict with 87% acurracy. 
 
 ## How to run 
 
