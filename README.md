@@ -39,13 +39,13 @@ However in our analysis we have saved a new filtered version of our train data w
 
 ## Methods
 
+#### Multinomal Logistic Regression and Multiple Linear Regression
+
+- Description: Our linear based methods to compare the performance between different models. Multinomal logistic regression is a very basic classification algorithm and it underperforms compared to our non linear methods. Similarly we also tested Multiple linear regressions and obtained similar results.
+
 #### XG Boost
 
-- Description:
-
-#### Neural Network:
-
-- Description:
+- Description: An ensemble learning method which has been consistently good at supervised learning tasks. We therefore took this tree based method which improves each previous model (boosting), and we obtain a model that is able to predict with 87% acurracy. 
 
 ## How to run 
 

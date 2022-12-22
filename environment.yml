@@ -148,30 +148,78 @@ dependencies:
   - zlib=1.2.12=h4dc903c_3
   - zstd=1.5.2=hcb37349_0
   - pip:
+    - appdirs==1.4.4
+    - astor==0.8.1
+    - blis==0.7.9
+    - catalogue==2.0.8
     - click==8.1.3
+    - cloudpickle==2.2.0
+    - confection==0.0.3
+    - cymem==2.0.7
+    - dask==2022.12.0
     - et-xmlfile==1.1.0
     - filelock==3.8.0
+    - fsspec==2022.11.0
+    - funcy==1.17
+    - future==0.18.2
     - gensim==4.2.0
     - huggingface-hub==0.10.1
+    - imageio==2.22.4
+    - ipywidgets==8.0.3
     - joblib==1.2.0
     - jupyter-contrib-core==0.4.0
     - jupyter-nbextensions-configurator==0.5.0
+    - jupyterlab-widgets==3.0.4
+    - langcodes==3.3.0
+    - locket==1.0.0
+    - lxml==4.9.1
+    - murmurhash==1.0.9
     - nltk==3.7
     - openpyxl==3.0.10
+    - pandasgui==0.2.13
+    - partd==1.3.0
+    - pathy==0.10.1
     - plotly==5.11.0
+    - preshed==3.0.8
+    - pyarrow==10.0.1
+    - pydantic==1.10.2
+    - pyldavis==3.3.1
+    - pynput==1.7.6
+    - pyobjc-core==9.0
+    - pyobjc-framework-applicationservices==9.0
+    - pyobjc-framework-cocoa==9.0
+    - pyobjc-framework-quartz==9.0
+    - pyqt5==5.15.7
+    - pyqt5-qt5==5.15.2
+    - pyqt5-sip==12.11.0
+    - pyqtwebengine==5.15.6
+    - pyqtwebengine-qt5==5.15.2
+    - qtstylish==0.1.5
     - regex==2022.10.31
     - scikit-learn==1.1.3
     - sentence-transformers==2.2.2
     - sentencepiece==0.1.97
+    - sklearn==0.0.post1
     - smart-open==6.2.0
-    - xgboost==1.7.1
+    - spacy==3.4.3
+    - spacy-legacy==3.0.10
+    - spacy-loggers==1.0.4
+    - srsly==2.4.5
+    - swifter==1.3.4
     - tenacity==8.1.0
+    - textblob==0.17.1
+    - thinc==8.1.5
     - threadpoolctl==3.1.0
     - tokenizers==0.13.2
+    - toolz==0.12.0
     - torch==1.13.0
     - torchvision==0.14.0
     - tqdm==4.64.1
     - transformers==4.24.0
+    - typer==0.7.0
+    - wasabi==0.10.1
+    - widgetsnbextension==4.0.4
     - word2vec==0.11.1
+    - wordcloud==1.8.2.2
     - xlrd==2.0.1
-prefix: /Users/simonlee/opt/anaconda3/envs/ada
+prefix: /Users/simonlee/opt/anaconda3/envs/ML
