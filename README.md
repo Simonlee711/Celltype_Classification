@@ -29,13 +29,13 @@ The training data contains the normalized counts for 32285 genes in 5000 differe
 with the experimental condition under which each cell was measured. The test data contains only
 the normalized counts and your task is to predict the experimental condition. Data is included in this repository
 
-```../data/train.csv.gz```
+```./data/train.csv.gz```
 
-```../data/test.csv.gz```
+```./data/test.csv.gz```
 
 However in our analysis we have saved a new filtered version of our train data which filtered out some genes expressed based on a threshold. In our case we decided to filter out genes that were seen across less than 10% of the cells. Filtering took extremely long so in our analysis we recommend you take advantage of our new dataset:
 
-```../data/filtered_train.csv.gz```
+```./data/filtered_train.csv.gz```
 
 ## Methods
 
@@ -49,5 +49,5 @@ However in our analysis we have saved a new filtered version of our train data w
 
 ## How to run 
 
-All the preprocessing, methods and analysis are contained in the ```../src/cell_prediction_analysis.ipynb``` notebook.
+All the preprocessing, methods and analysis are contained in the ```./src/cell_prediction_analysis.ipynb``` notebook.
 
