@@ -41,7 +41,7 @@ However in our analysis we have saved a new filtered version of our train data w
 
 #### Multinomal Logistic Regression and Multiple Linear Regression
 
-- Description: Our linear based methods to compare the performance between different models. Multinomal logistic regression is a very basic classification algorithm and it underperforms compared to our non linear methods. Similarly we also tested Multiple linear regressions and obtained similar results.
+- Description: Our linear based methods to compare the performance between different models. Multinomal logistic regression is a very basic classification algorithm and it performs the best out of all the methods. Similarly we also tested Multiple linear regressions and obtained similar results.
 
 #### XG Boost
 
